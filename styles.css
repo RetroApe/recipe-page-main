@@ -60,7 +60,7 @@ main {
     height: fit-content;
     position: relative;
 
-    margin: 7.75rem auto;
+    margin: 7.75rem auto 6.75rem auto;
     padding: 2.5rem;
     border-radius: 1.2rem;
 
@@ -84,7 +84,7 @@ img {
     transition: all 250ms ease-out;
 }
 
-@media (max-width: 30rem) {
+@media (max-width: 32rem) {
     img {
         transform: translate(-2.5rem);
         width: 96vw;
