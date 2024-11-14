@@ -99,7 +99,7 @@ img {
 }
 
 .prep-box {
-    background-color: rgb(243, 242, 242);
+    background-color: hsl(330, 100%, 98%);
     padding: 1.8rem;
     border-radius: 0.8rem;
 }
