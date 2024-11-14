@@ -50,7 +50,6 @@ main {
     align-items: center;
     justify-content: center;
 
-
 }
 
 .card {
@@ -87,7 +86,7 @@ img {
 @media (max-width: 32rem) {
     img {
         transform: translate(-2.5rem);
-        width: 100vw;
+        width: 110vw;
         border-radius: 0;
     }
 
