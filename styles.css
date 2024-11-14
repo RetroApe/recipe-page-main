@@ -86,7 +86,7 @@ img {
 @media (max-width: 32rem) {
     img {
         transform: translate(-2.5rem);
-        width: 110vw;
+        width: 100vw;
         border-radius: 0;
     }
 
