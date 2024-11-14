@@ -1,3 +1,169 @@
-.attribution { font-size: 11px; text-align: center; }
+.attribution { font-size: 11px; text-align: center; margin: 1rem 0}
 .attribution a { color: hsl(228, 45%, 44%); }
 
+* {
+    box-sizing: border-box;
+    font-family: "Outfit", sans-serif;
+    color: hsl(24, 5%, 18%);
+}
+
+h1, h2 {
+    font-family: "Young Serif", serif;
+    font-weight: lighter;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin: 1.8rem 0 0 0;
+    
+}
+
+h2 {
+    font-size: 1.8rem;
+}
+
+p, li {
+    line-height: 1.5rem;
+}
+
+p {
+    margin: 1rem 0  2rem 0;
+}
+
+hr {
+    margin: 2.3rem 0;
+}
+
+
+.bold {
+    font-weight: bold;
+}
+
+body {
+    background-color: #f3e5d8;
+    margin: 0;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.card {
+    
+    overflow-x: hidden;
+    width: min(100%, 46rem);
+    height: fit-content;
+    position: relative;
+
+    margin: 7.75rem auto;
+    padding: 2.5rem;
+    border-radius: 1.2rem;
+
+    background-color: white;
+
+    transition: all 350ms ease-in-out;
+
+}
+
+@media (max-width: 47.8rem) {
+    .card {
+        margin: 0;
+        border-radius: 0;
+    }
+}
+
+img {
+    width: 100%;
+    border-radius: 0.8rem;
+
+    transition: all 250ms ease-out;
+}
+
+@media (max-width: 30rem) {
+    img {
+        transform: translate(-2.5rem);
+        width: 96vw;
+        border-radius: 0;
+    }
+
+    .card {
+        padding-top: 0;
+    }
+}
+
+.prep-box {
+    background-color: rgb(243, 242, 242);
+    padding: 1.8rem;
+    border-radius: 0.8rem;
+}
+
+
+.prep-box h3 {
+    margin: 0;
+    font-size: 1.3rem;
+}
+
+ul, ol {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin: 0.7rem 0 0 0;
+    padding-left: 2rem;
+}
+
+ul > li {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+
+    &::before {
+        content: "\2022";
+        font-size: 1.6rem;
+
+        position: relative;
+        left: -1.5rem;
+
+        line-height: 0;
+    }
+
+    & span {
+        display: contents;
+    }
+}
+
+ol > li {
+    margin-left: 1.5rem;
+    padding-left: 1rem;
+
+    &::marker {
+        font-weight: bold;
+    }
+}
+
+
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table td {
+    padding: 0.8rem 0rem; 
+    width: 50%;
+
+    &:not(.bold) {
+        padding-left: 2rem;
+    }
+}
+
+td:not(.no-line) {
+    border-bottom: 1px solid;
+}
