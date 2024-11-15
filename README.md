@@ -18,9 +18,11 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![Recipe Page Solution Screenshot Desktop](<retroape.github.io_recipe-page-main (desktop).png> | height=500)
-
-![Recipe Page Solution Screenshot Mobile](<retroape.github.io_recipe-page (mobile).png> | height=500)
+<p>
+    <img src="retroape.github.io_recipe-page-main (desktop).png" height="300">
+    <p>
+    <img src="retroape.github.io_recipe-page (mobile).png" height="300">
+</p>
 
 ### Links
 
