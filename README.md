@@ -18,14 +18,14 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![Recipe Page Solution Screenshot Desktop](<retroape.github.io_recipe-page-main (desktop).png>)
+![Recipe Page Solution Screenshot Desktop](<retroape.github.io_recipe-page-main (desktop).png> | height=500)
 
-![Recipe Page Solution Screenshot Mobile](<retroape.github.io_recipe-page (mobile).png>)
+![Recipe Page Solution Screenshot Mobile](<retroape.github.io_recipe-page (mobile).png> | height=500)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com | height=500)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com | height=500)
+- Solution URL: (https://github.com/RetroApe/recipe-page-main)
+- Live Site URL: (https://retroape.github.io/recipe-page-main/)
 
 ## My process
 
