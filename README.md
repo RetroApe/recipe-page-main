@@ -18,16 +18,16 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
+Desktop | Mobile
 <p>
-    <img src="retroape.github.io_recipe-page-main (desktop).png" height="300">
-    <p>
-    <img src="retroape.github.io_recipe-page (mobile).png" height="300">
+    <img src="retroape.github.io_recipe-page-main (desktop).png" height="300" hspace="15">
+    <img src="retroape.github.io_recipe-page (mobile).png" height="300" hspace="15">
 </p>
 
 ### Links
 
-- Solution URL: (https://github.com/RetroApe/recipe-page-main)
-- Live Site URL: (https://retroape.github.io/recipe-page-main/)
+- [Solution URL](https://github.com/RetroApe/recipe-page-main)
+- [Live Site URL](https://retroape.github.io/recipe-page-main)
 
 ## My process
 
